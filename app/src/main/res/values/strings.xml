@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic-UI-Controls-2</string>
+    <string name="login_text">Login:</string>
+    <string name="password_text">Password:</string>
+</resources>
